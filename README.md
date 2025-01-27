@@ -1,4 +1,4 @@
-# tic_tac_game
+# XO game
 
 The tic tac game can be played with one of your friends to see who wins, or you can game the system in a strong competition. A smart person can defeat you. Be careful.
 
